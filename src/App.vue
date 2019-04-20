@@ -96,6 +96,7 @@ overflow-x: hidden;
   top: 0;
   overflow: hidden;
   width: 100vw;
+  height: 70vw;
   background:url("assets/Image1.png");
   background-size: cover;
   z-index: 1;
@@ -103,7 +104,7 @@ overflow-x: hidden;
     content: "";
     position: absolute;
     left: 31vw;
-    height: 103vh;
+    height: 73vw;
     width: 70vw;
     overflow:hidden;
   }
@@ -143,14 +144,14 @@ overflow-x: hidden;
   top:8vw;
   margin: 20vw 5vw 0vw 12vw;
   z-index: 5;
-  font-size: 5vmax;
+  font-size: 4vw;
   font-weight: 900 !important;
 }
 .button{
   border: .15vw solid #FE0090;
-  width: 24vw;
+  width: 18vw;
   font-size: 2.5vw;
-  height: 6vw;
+  height: 5vw;
   margin-top: 5vw;
   background: transparent;
   color: #FE0090;
