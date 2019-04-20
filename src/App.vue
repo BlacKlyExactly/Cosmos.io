@@ -122,7 +122,7 @@ overflow-x: hidden;
 }
 .headerTitle{
   color: white;
-  font-size: 8vmax;
+  font-size: 7vmax;
   align-self: center;
   margin-top: -18vw;
   margin-left: 8vw;
@@ -142,7 +142,7 @@ overflow-x: hidden;
   position: relative;
   align-self: center;
   top:8vw;
-  margin: 20vw 5vw 0vw 12vw;
+  margin: 20vw 5vw 0vw 25vw;
   z-index: 5;
   font-size: 4vw;
   font-weight: 900 !important;
