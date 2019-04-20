@@ -31,6 +31,7 @@
 
 <script>
   import Search from "./components/Search.vue"
+  import Parallax from "vue-parallaxy";
   import FindBug from "./components/FindBug.vue"
 export default {
   name: 'app',
